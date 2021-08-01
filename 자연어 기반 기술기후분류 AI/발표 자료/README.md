@@ -2,7 +2,7 @@
 
 ### Pooling
 
-### LSTM
+### RNN&LSTM
 
 ### GRU
 
